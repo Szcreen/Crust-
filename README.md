@@ -1,2 +1,2 @@
-# Crust-
+# Crust+
 Simple rust discord bot
