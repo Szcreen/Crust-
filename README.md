@@ -1,3 +1,3 @@
 # Crust+
 Simple rust discord bot
-![Crust+ logo](https://imgur.com/a/2zYSu85)
+![Crust+ logo](https://i.imgur.com/1LHTBse.png)
