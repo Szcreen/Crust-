@@ -1,0 +1,15 @@
+{
+    "name": "crustplus",
+    "version": "1.0.0",
+    "description": "A brief description of your project",
+    "main": "Crust+.js",
+    "scripts": {
+        "start": "node Crust+.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Szcreen",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {}
+}
