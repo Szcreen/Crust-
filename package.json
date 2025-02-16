@@ -20,15 +20,6 @@
     "engines": {
       "node": "16.x"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/yourusername/your-repository.git"
-    },
-    "author": "Your Name",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/yourusername/your-repository/issues"
-    },
-    "homepage": "https://github.com/yourusername/your-repository#readme"
-  }
-  
+    "author": "Szcreen",
+    "license": "MIT"
+}
