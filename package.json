@@ -1,15 +1,34 @@
 {
     "name": "crustplus",
     "version": "1.0.0",
-    "description": "A brief description of your project",
+    "description": "A Discord bot hosted on Vercel",
     "main": "Crust+.js",
     "scripts": {
-        "start": "node Crust+.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "node crust+.js"
     },
-    "keywords": [],
-    "author": "Szcreen",
-    "license": "ISC",
-    "dependencies": {},
-    "devDependencies": {}
-}
+    "dependencies": {
+      "discord.js": "^14.0.0",
+      "moment-timezone": "^0.5.36",
+      "@discordjs/builders": "^0.15.3",
+      "@discordjs/rest": "^1.1.0",
+      "discord-api-types": "^0.37.0",
+      "dotenv": "^10.0.0"
+    },
+    "devDependencies": {
+      "dotenv": "^10.0.0"
+    },
+    "engines": {
+      "node": "16.x"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yourusername/your-repository.git"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/yourusername/your-repository/issues"
+    },
+    "homepage": "https://github.com/yourusername/your-repository#readme"
+  }
+  
