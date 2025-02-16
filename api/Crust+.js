@@ -1,9 +1,10 @@
+require('dotenv').config();
+
 const moment = require('moment-timezone');
 const { Client, GatewayIntentBits, Intents } = require('discord.js');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
-require('dotenv').config();
 
 const client = new Client({
     intents: [

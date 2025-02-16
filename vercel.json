@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
       {
-        "src": "crust+.js",
+        "src": "api/crust+.js",
         "use": "@vercel/node"
       }
     ],
     "routes": [
       {
-        "src": "crust+.js",
-        "dest": "crust+.js"
+        "src": "api/crust+",
+        "dest": "/api/crust+.js"
       }
     ]
   }
